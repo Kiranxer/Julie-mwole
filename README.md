@@ -1,8 +1,6 @@
 #### JULIE MWOLE WHATSAPP BOT
-Julie mwole- Simple whatsapp Multi Device whatsapp bot.
 <div align="center">
   <img border-radius: 30px src="https://i.imgur.com/RS3FgKz.jpeg" width="1000" height="300"/>
-***
 
 ### SETUP
 
