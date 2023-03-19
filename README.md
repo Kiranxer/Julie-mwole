@@ -1,7 +1,9 @@
 #### JULIE MWOLE WHATSAPP BOT
 <div align="center">
   <img border-radius: 30px src="https://i.imgur.com/RS3FgKz.jpeg" width="1000" height="300"/>
+
 <br />
+
 ### SETUP
 
 1. Scan the QR and copy it
