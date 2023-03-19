@@ -23,3 +23,7 @@ Julie mwole- Simple whatsapp Multi Device whatsapp bot.
   
 ***
 <a href="https://chat.whatsapp.com/H7IlnOYuh0TBqAe19NDov0"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+### WIKI👼🏻
+
+<a href="https://github.com/Luciferhere2/Julie-mwole-plugins">ᴩʟᴜɢɪɴꜱ🍒</a>
