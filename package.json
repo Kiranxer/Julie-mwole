@@ -1,15 +1,15 @@
 {
-  "name": "hermit-md",
+  "name": "Julie mwole",
   "version": "4.3.4",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "julie mwole - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name julie mwole"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "Luciferhere2",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "@adiwajshing/baileys": "git+https://github.com/Luciferhere2/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^0.24.0",
