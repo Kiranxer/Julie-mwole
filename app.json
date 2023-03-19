@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝘑𝘶𝘭𝘪𝘦 𝘮𝘸𝘰𝘭𝘦🌻;🇦🇴⃞ꪶ⃬𝐊ɪʀ᷇ᴀɴ⭑⃬𝐒ᴇʀꫂ;919539060020;https://i.imgur.com/RS3FgKz.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "𝘑𝘶𝘭𝘪𝘦 𝘮𝘸𝘰𝘭𝘦🌻;🇦🇴⃞ꪶ⃬𝐊ɪʀ᷇ᴀɴ⭑⃬𝐒ᴇʀꫂ"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝘑𝘶𝘭𝘪𝘦 𝘮𝘸𝘰𝘭𝘦🌻;🇦🇴⃞ꪶ⃬𝐊ɪʀ᷇ᴀɴ⭑⃬𝐒ᴇʀꫂ;https://i.imgur.com/RS3FgKz.jpeg"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
