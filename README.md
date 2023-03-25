@@ -10,7 +10,7 @@
 
 1. Scan the QR and copy it
     <br>
-<a href='https://hermit.adithyan.ml/qr' target="_blank"><img alt='SCAN THE QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://levanter.onrender.com/md' target="_blank"><img alt='SCAN THE QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU 
 
