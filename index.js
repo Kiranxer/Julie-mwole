@@ -1,11 +1,14 @@
-const client = require('./lib/client')
-
-const connect = async () => {
+const { Client } = require('./lib/client')
+const { DATABASE, VERSION } = require('./config')
+const start = async () => {
 	try {
-		await client.connect()
+		logger.info(`levanter ${VERSION}`)
+		await DATABASE.sync()
+		logger.info('Database syncing...')
+		const bot = new Client()
+		await bot.connect()
 	} catch (error) {
-		console.error(error)
+		logger.error(error)
 	}
 }
-
-connect()
+start()
