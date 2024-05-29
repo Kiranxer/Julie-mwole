@@ -9,7 +9,7 @@
   "author": "Luciferhere2",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/Luciferhere2/Baileys.js.git",
+    "@adiwajshing/baileys": "git+github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^0.24.0",
